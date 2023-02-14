@@ -1,0 +1,17 @@
+body{background-color:#D1FFF3;}
+
+hr{border-color:#696969;
+    background-color:#D1FFF3;
+   border-style:none;
+   border-top-style:dotted;
+   border-spacing:25px;
+   border-width:15px;
+   width:5%
+
+}
+h1{
+    color:#C1AEFC;
+    font-family:'Courier New', Courier, monospace;
+}
+h3{color:#C1AEFC;
+}
